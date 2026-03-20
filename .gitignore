@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+dist/
+build/
+routes/categoty.js
+routes/search.js
+controllers/categoty.js
